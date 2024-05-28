@@ -5,6 +5,7 @@ Feature: Notificaciones de recordatorio para citas médicas
     para mis citas médicas,
     para no olvidar ninguna consulta.
 
+
 Scenario: Notificaciones de recordatorio para citas médicas
 
 Dado que el usuario tiene una cita médica programada
