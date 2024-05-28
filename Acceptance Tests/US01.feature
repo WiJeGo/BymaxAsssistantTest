@@ -1,4 +1,4 @@
-Feature: Notificaciones de recordatorio para citas médicas
+Feature: US-01 Notificaciones de recordatorio para citas médicas
 
     Como cliente
     deseo recibir notificaciones de recordatorio 
