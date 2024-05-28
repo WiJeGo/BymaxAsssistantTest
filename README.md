@@ -1,4 +1,4 @@
 $$ACCEPTANCE$$ 
-$$TESTS$$
+ $$TESTS$$
 
 Acceptance Test for Bymax Asssistant
